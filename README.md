@@ -14,7 +14,9 @@
 + ### TimeSeriesKMeans
   시계열 데이터에 대한 K개의 클러스터링
 + ### DTW(동적시간워핑)
-  속도반영으로 거리가 가장 짧은 시점을 연결
+  비슷한 두개의 다른 속도의 시간축의 파장의 유사성을 측정하는 알고리즘으로 유클리드 거리와는 달리 거리가 가장 짧은 시점을 연결
+  ![image](https://user-images.githubusercontent.com/72387067/153740727-562f29b1-7cd0-48e5-bd25-6f963e83fb4f.png)
+
 -------------------------
 #### 4개의 Clusters
 <img src="https://user-images.githubusercontent.com/72387067/153728442-5ac4d796-b03a-48e0-a411-34e164d9be8d.png" width="600" height="905"/>
